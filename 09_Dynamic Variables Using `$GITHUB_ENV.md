@@ -1,5 +1,5 @@
 
-# LAB 2 — Dynamic Variables Using `$GITHUB_ENV`
+# LAB 9 — Dynamic Variables Using `$GITHUB_ENV`
 
 ## What are we going to learn?
 
