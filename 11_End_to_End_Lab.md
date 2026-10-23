@@ -11,6 +11,10 @@ You will push code to GitHub and watch it travel through compile, security scan,
 - **Concept**: the one idea to understand before you type anything
 - **Lab**: copy and paste steps, then what you should see
 
+
+<img width="1169" height="718" alt="image" src="https://github.com/user-attachments/assets/d5606445-2859-4137-9b1a-e1a52ec67a03" />
+
+
 ---
 
 ## Step 0: Before you start
